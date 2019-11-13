@@ -1,0 +1,10 @@
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.csprojAssemblyReference.cache
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.LoginForm.resources
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.csproj.GenerateResource.cache
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\bin\Debug\StudentskaSkripta.exe.config
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\bin\Debug\StudentskaSkripta.exe
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\bin\Debug\StudentskaSkripta.pdb
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.Properties.Resources.resources
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.csproj.CoreCompileInputs.cache
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.exe
+C:\Users\djord\OneDrive\Desktop\C#_studentsta_skripta\StudentskaSkripta\StudentskaSkripta\obj\Debug\StudentskaSkripta.pdb
