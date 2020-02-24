@@ -1,0 +1,5 @@
+1. Podrška za razlicite tipove (barem dva) korisnickih naloga
+2. Internacionalizacija
+3. Korisnicka podešavanja
+4. Korisnicko uputstvo
+5. Instalacija i uputstvo za instalaciju

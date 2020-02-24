@@ -1,0 +1,3 @@
+Admin: korisnicko ime: djole , lozinka: djole
+Korisnik: korisnicko ime: rolja , lozinka: rolja
+Korisnik: korisnicko ime: gorjana , lozinka: gorjana
